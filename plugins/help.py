@@ -42,8 +42,8 @@ def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/tgxbotz_update"),
-                           InlineKeyboardButton("Support Group", url="https://t.me/tgxbotz_chat")
+                           InlineKeyboardButton("Creator's", url="https://t.me/hrdxr"),
+                           InlineKeyboardButton("Support Group", url="https://t.me/thecinemaxgroup")
                       ],
 
                   ]
